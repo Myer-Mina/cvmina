@@ -18,11 +18,7 @@ St. Andrew's School of Parañaque
 (Grade 10 - 12 With Honors)
 
 
-Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
-
-Real world example: [http://sneas.github.io/cv](http://sneas.github.io/cv).
-
-## Motivation
+## Experience
 
 GitHub Pages is probably the best place developer could store their CV. Giving a potential employer a link to your CV stored on GitHub shows your intense desire for automation and stands you out.
 
