@@ -39,12 +39,9 @@ entertaining.
 * Freelance video editor
 * Freelance music mixer
 
-## Installation
+## Skills
 
-1. Create a new repo out of this template by clicking [this link](https://github.com/sneas/cv-template/generate).
-1. Clone the newly created repo.
-1. Install project dependencies with `npm install`.
-1. Run `npm run deploy` to initialize `gh-pages`. This is a one time action. Further deployments will be initiated by GitHub Actions on every push to `main`.
+I can work in a fast and efficient way. I am a critical thinker and solving problems, especially technological problems, are my attributes. Also, I am a very competitive person, I am a gamer who plays competitively.
 
 ## Usage
 
