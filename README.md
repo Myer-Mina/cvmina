@@ -1,8 +1,8 @@
 # Jerry Myer S. Mina
 
-You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
+I am a graduate from Lyceum of the Philippines University, with BS Esports program specializing in Game Design and Development.
 
-## What does this project do?
+## Education
 
 * Helps you to manage your CV as a web app (HTML + CSS + JS).
 * Automatically generates and publishes HTML and PDF version on every push to `main`.
