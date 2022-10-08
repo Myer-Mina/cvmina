@@ -27,7 +27,9 @@ since 2014, and I am getting better every day. VALORANT, and League of Legends a
 * Fixing and optimizing desktops
 
 *2020 - present*
+
 Software
+* Graphic Design (PubMat)
 * Editing videos such as music video, video
 montage, and other videos that are
 entertaining.
