@@ -25,8 +25,14 @@ Playing competitive games
 * I have been playing online competitive games
 since 2014, and I am getting better every day. VALORANT, and League of Legends are the games that I have played competitively.
 
-
-The idea behind **The Curriculum Vitae Template** is to provide anyone with a quick solution for creating and managing CVs (both HTML and PDF versions) with the help of GitHub.
+2020 - present
+Software
+* Editing videos such as music video, video
+montage, and other videos that are
+entertaining.
+* Creating music using my desktop.
+* Coding websites and apps.
+* Fixing and optimizing desktops
 
 ## Installation
 
