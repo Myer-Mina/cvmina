@@ -8,7 +8,9 @@ Design and Development.
 
 ## Education
 
-* Helps you to manage your CV as a web app (HTML + CSS + JS).
+* A.Y. 2015 - 2017 :
+Grade 6 - 7
+[Graduated in San Beda College Alabang]
 * Automatically generates and publishes HTML and PDF version on every push to `main`.
 
 Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
