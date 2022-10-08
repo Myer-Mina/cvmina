@@ -34,6 +34,11 @@ entertaining.
 * Coding websites and apps.
 * Fixing and optimizing desktops
 
+2020 - 2022
+* Job interview simulation
+* Freelance video editor
+* Freelance music mixer
+
 ## Installation
 
 1. Create a new repo out of this template by clicking [this link](https://github.com/sneas/cv-template/generate).
