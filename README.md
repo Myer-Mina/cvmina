@@ -48,6 +48,7 @@ entertaining.
 * Freelance video editor
 * Freelance music mixer
 * VnMyer Youtube Vloger (for fun only)
+
 <img src="youtube.PNG" width="500">
 
 ## Skills
