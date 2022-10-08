@@ -43,13 +43,12 @@ entertaining.
 
 I can work in a fast and efficient way. I am a critical thinker and solving problems, especially technological problems, are my attributes. Also, I am a very competitive person, I am a gamer who plays competitively.
 
-## Usage
+## Contact
 
-1. Start local development server with `npm start`.
-1. Update contents of `src` folder to fit your needs. This item is explained [below](#update-contents).
-1. Commit and push your changes.
-1. GitHub Actions will automatically build the latest version and deploy it to GitHub Pages.
-1. Open `http://your-username.github.io/your-cv-repo`.
+Phone: +63 995-161-6738
+Email: jerrymyermina@gmail.com
+Address: 55 Jade St. Bernabe Phase 3, San Dionisio, Paranaque City.
+
 
 ### Update contents
 
