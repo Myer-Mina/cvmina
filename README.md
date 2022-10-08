@@ -2,7 +2,7 @@
 
 # Jerry Myer S. Mina
 
-**I am a first year student from Lyceum of the Philippines University, and taking I am BS Esports program specializing in Game Design and Development.**
+**I am a first year student from Lyceum of the Philippines University, and I am taking BS Esports program specializing in Game Design and Development.**
 
 ## Education
 
@@ -32,9 +32,14 @@ since 2014, and I am getting better every day. VALORANT, and League of Legends a
 
 Software
 * Graphic Design (PubMat)
+
+<img src="Don't exchange me to the near of you.jpg" width="200"> <img src="Untitled design (2).jpg" width="200">
+<img src="HITMARK.jpg" width="200">
 * Editing videos such as music video, video
 montage, and other videos that are
 entertaining.
+<img src="youtube(1).PNG" width="500">
+
 * Creating music using my desktop.
 * Coding websites and apps.
 
@@ -43,6 +48,7 @@ entertaining.
 * Freelance video editor
 * Freelance music mixer
 * VnMyer Youtube Vloger (for fun only)
+<img src="youtube.PNG" width="500">
 
 ## Skills
 
