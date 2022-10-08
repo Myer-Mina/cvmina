@@ -11,7 +11,12 @@ Design and Development.
 * A.Y. 2015 - 2017 :
 Grade 6 - 7
 [Graduated in San Beda College Alabang]
-* Automatically generates and publishes HTML and PDF version on every push to `main`.
+* A.Y. 2017 - 2022 :
+Grade 8 - 12
+St. Andrew's School of Parañaque 
+[Graduated in St. Andrew's School of Parañaque]
+(Grade 10 - 12 With Honors)
+
 
 Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
 
