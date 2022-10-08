@@ -1,4 +1,4 @@
-# The Curriculum Vitae Template
+# Jerry Myer S. Mina
 
 You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
 
