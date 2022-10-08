@@ -20,7 +20,11 @@ St. Andrew's School of Parañaque
 
 ## Experience
 
-GitHub Pages is probably the best place developer could store their CV. Giving a potential employer a link to your CV stored on GitHub shows your intense desire for automation and stands you out.
+2014 - present
+Playing competitive games
+* I have been playing online competitive games
+since 2014, and I am getting better every day.
+
 
 The idea behind **The Curriculum Vitae Template** is to provide anyone with a quick solution for creating and managing CVs (both HTML and PDF versions) with the help of GitHub.
 
