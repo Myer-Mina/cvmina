@@ -1,6 +1,10 @@
 # Jerry Myer S. Mina
 
-I am a graduate from Lyceum of the Philippines University, with BS Esports program specializing in Game Design and Development.
+I am a first year student from Lyceum of
+the Philippines University, and taking I am
+BS Esports program specializing in Game
+Design and Development.
+
 
 ## Education
 
