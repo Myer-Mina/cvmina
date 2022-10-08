@@ -1,3 +1,5 @@
+<img src="307261218_472623548102558_795121629330015553_n.jpg" width="200">
+
 # Jerry Myer S. Mina
 
 **I am a first year student from Lyceum of the Philippines University, and taking I am BS Esports program specializing in Game Design and Development.**
